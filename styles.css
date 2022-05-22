@@ -1,0 +1,16 @@
+body {
+  font-family: "helvetica", sans-serif;
+  size: 2.4em;
+  background: rgba(0, 255, 242, 0.753);
+  color: white;
+}
+
+body #dono:hover {
+  background-color: #009ffc;
+}
+
+body p #funni {
+  color: #090cdb;
+  size: 2.6em;
+}
+/*# sourceMappingURL=styles.css.map */
