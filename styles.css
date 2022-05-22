@@ -1,16 +1,28 @@
 body {
   font-family: "helvetica", sans-serif;
-  size: 2.4em;
+  size: 5em;
   background: rgba(0, 255, 242, 0.753);
   color: white;
+  right: 50%;
+  top: 30px;
 }
 
-body #dono:hover {
+body #dono {
+  color: darkblue;
+  background-color: #383838;
+}
+
+body #dono #dono:hover {
   background-color: #009ffc;
+  color: darkblue;
 }
 
 body p #funni {
   color: #090cdb;
-  size: 2.6em;
+  size: 5.2em;
+}
+
+body p #bottomtext {
+  left: 30px;
 }
 /*# sourceMappingURL=styles.css.map */
